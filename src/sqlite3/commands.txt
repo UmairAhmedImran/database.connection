@@ -11,3 +11,5 @@ After 15 line code
 ######### use command ########
 res = cur.execute("SELECT score FROM movie")
 res.fetchall()
+##### adding more code ########
+simply run the code
