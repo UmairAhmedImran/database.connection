@@ -1,0 +1,13 @@
+After 7 line of code 
+in any type of terminal
+################# use command ###########
+python
+(run all the code) # then run
+res = cur.execute("SELECT name FROM sqlite_master")
+res.fetchone()
+(which will give all the tables)
+##########################
+After 15 line code
+######### use command ########
+res = cur.execute("SELECT score FROM movie")
+res.fetchall()
